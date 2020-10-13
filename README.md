@@ -6,4 +6,4 @@ This is a web application hosted by Github Pages.
 
 ## Project status
 
-[![build checking status](https://github.com/caiopetruccirosa/caiopetruccirosa.github.io/workflows/build-checking/badge.svg)](https://github.com/caiopetruccirosa/caiopetruccirosa.github.io/actions) [![deploy status](https://github.com/caiopetruccirosa/caiopetruccirosa.github.io/workflows/deploy/badge.svg)](https://github.com/caiopetruccirosa/caiopetruccirosa.github.io/actions)
+[![build checking status](https://github.com/caiopetruccirosa/caiopetruccirosa.github.io/workflows/build-checking/badge.svg)](https://github.com/caiopetruccirosa/caiopetruccirosa.github.io/actions?query=workflow%3Abuild-checking) [![deploy status](https://github.com/caiopetruccirosa/caiopetruccirosa.github.io/workflows/deploy/badge.svg)](https://github.com/caiopetruccirosa/caiopetruccirosa.github.io/actions?query=workflow%3Adeploy)
